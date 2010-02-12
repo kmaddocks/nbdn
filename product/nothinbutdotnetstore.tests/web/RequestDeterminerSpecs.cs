@@ -8,7 +8,7 @@ using Rhino.Mocks;
 
 namespace nothinbutdotnetstore.tests.web
 {
-    public class RequestDeterminerSpecs
+    public class RequestDeterminerSpesc
     {
         public abstract class concern : observations_for_a_sut_with_a_contract<RequestDeterminer,
                                             DefaultRequestDeterminer>
